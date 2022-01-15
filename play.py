@@ -1,6 +1,3 @@
-# v6
-# November 14
-
 from game import main
 from importlib import util
 
