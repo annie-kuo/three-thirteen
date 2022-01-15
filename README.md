@@ -1,5 +1,5 @@
 # three-thirteen
-Program to play Three Thirteen (rummy game variant) with 4 players or more.
+This program allows the user to play Three Thirteen (rummy game variant) with 4 players or more.
 
 ## Features
 - Allows user to check if a group of cards form a valid group (same rank).
